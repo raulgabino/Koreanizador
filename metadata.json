@@ -1,0 +1,5 @@
+{
+  "name": "K-Pop Star Kiosk",
+  "description": "A kiosk app that transforms users into K-Pop idols on stage using AI.",
+  "requestFramePermissions": ["camera"]
+}
